@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cypress": "^13.14.2",
+    "playwright": "^1.49.0"
+  }
+}
